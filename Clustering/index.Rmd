@@ -18,7 +18,7 @@ confusion.
 
 [This app](https://ilir.shinyapps.io/Assignment1/) illustrates the 
 alternative approaches and how to set them up using simple plots that 
-the user can control in real time.
+the user can control in real time. The code can be found [here](https://github.com/ilirmaci/ShinyClustering).
 
 ------------
 
